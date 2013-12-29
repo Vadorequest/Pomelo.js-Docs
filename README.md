@@ -9,15 +9,15 @@ Pomelo est également adapté pour les applications web en temps réel, son arch
 
 ## Caractéristiques
 
-### Support complet pour serveur de jeu et applications en temps réel
+#### Support complet pour serveur de jeu et applications en temps réel
 
-### Rapide, evolutif
+#### Rapide, evolutif
 
-### Simple d'utilisation
+#### Simple d'utilisation
 
-### Puissant
+#### Puissant
 
-### Extensible
+#### Extensible
 
 ## Liens utils
  * Site Web : <http://pomelo.netease.com/>
@@ -25,7 +25,9 @@ Pomelo est également adapté pour les applications web en temps réel, son arch
  * Documentation: <http://github.com/NetEase/pomelo>
  * Wiki: <https://github.com/NetEase/pomelo/wiki/>
  * Issues: <https://github.com/NetEase/pomelo/issues/>
- * Tags: game, nodejs
+
+## Jeu réaliser avec Pomelo.js
+ * Ayolan : <http://communaute.ayolan.com/> (en cours de réalisation)
 
  ## Contributeurs
 * NetEase, Inc. (@NetEase)
