@@ -1,5 +1,5 @@
 ### Démarré avec Pomelo.js
 
-''' js
+```javascript
 npm install pomelo
-'''
+```
