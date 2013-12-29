@@ -1,9 +1,13 @@
 # Pomelo.js
 
 ## Présentation
-Pomelo.js est un framework de serveur de jeu rapide et évolutif pour Node.js. Il fournit le cadre de développement de base et de nombreux composants annexes, y compris des bibliothèques et outils.
+Pomelo.js est un framework de serveur de jeu rapide et évolutif pour Node.js. Il fournit
+le cadre de développement de base et de nombreux composants annexes, y compris des bibliothèques
+et outils.
 
-Pomelo est également adapté pour les applications web en temps réel, son architecture distribué permet de faire de Pomelo un framework meilleurs que les autres framework d'application web en temps réel.
+Pomelo est également adapté pour les applications web en temps réel, son architecture distribué
+permet de faire de Pomelo un framework meilleurs que les autres framework d'application web en
+temps réel.
 
 ## Pourquoi utiliser Pomelo
 
@@ -35,19 +39,19 @@ Pomelo est également adapté pour les applications web en temps réel, son arch
  * Issues: <https://github.com/NetEase/pomelo/issues/>
 
 ## Jeu réaliser avec Pomelo.js
-* Ayolan : <http://communaute.ayolan.com/> (en cours de réalisation)
-* LorsOfPomelo : <https://github.com/NetEase/pomelo/wiki/Introduction-to--Lord-of-Pomelo>
+ * Ayolan : <http://communaute.ayolan.com/> (en cours de réalisation)
+ * LorsOfPomelo : <https://github.com/NetEase/pomelo/wiki/Introduction-to--Lord-of-Pomelo>
 
- ## Contributeurs
-* NetEase, Inc. (@NetEase)
-* Peter Johnson(@missinglink)
-* Aaron Yoshitake
-* @D-Deo
-* Eduard Gotwig
-* Eric Muyser(@stokegames)
-* @GeforceLee
-* Harold Jiang(@jzsues)
-* @ETiV
+## Contributeurs
+ * NetEase, Inc. (@NetEase)
+ * Peter Johnson(@missinglink)
+ * Aaron Yoshitake
+ * @D-Deo
+ * Eduard Gotwig
+ * Eric Muyser(@stokegames)
+ * @GeforceLee
+ * Harold Jiang(@jzsues)
+ * @ETiV
 
 ## Licence
 
