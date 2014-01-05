@@ -14,17 +14,18 @@ Le service de channel étant binder vous allez pouvoir les utiliser dans vos fon
 des channels, les effets et comment s'en servir.
 
 
-# Récupéré un channel
+#### Récupéré un channel
 
 ```javascript
     /**
-     * Vous permet de récupéré un channel précis. Si celui-ci n'est pas crée, le flag va permettre de le crée automatiquement.
+     * Vous permet de récupéré un channel précis. Si celui-ci n'est pas crée
+     * le flag va permettre de le crée automatiquement.
      */
     // var channel = this.channelService.getChannel("My Super Chan", true);
     var channel = this.channelService.getChannel(name, flag);
 ```
 
-#Ajouter un utilisateur au channel
+#### Ajouter un utilisateur au channel
 
 ```javascript
     /**
@@ -38,7 +39,7 @@ des channels, les effets et comment s'en servir.
     }
 ```
 
-#Récupéré tout les utilisateurs d'un channel
+#### Récupéré tout les utilisateurs d'un channel
 
 ```javascript
     /**
@@ -59,7 +60,7 @@ des channels, les effets et comment s'en servir.
     }
 ```
 
-#Quitter un channel
+#### Quitter un channel
 
 ```javascript
     /**
@@ -75,7 +76,7 @@ des channels, les effets et comment s'en servir.
     channel.leave(uid, sid);
 ```
 
-# Crée un channel
+#### Crée un channel
 
 ```javascript
     /**
@@ -84,7 +85,7 @@ des channels, les effets et comment s'en servir.
     var newChannel = this.channelService.createChannel("My New Channel");
 ```
 
-# Détruire un channel
+#### Détruire un channel
 
 ```javascript
     /**
