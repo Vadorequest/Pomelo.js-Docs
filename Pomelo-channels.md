@@ -60,6 +60,15 @@ des channels, les effets et comment s'en servir.
     }
 ```
 
+#### Récupéré un utilisateur précis du channel
+
+```javascript
+    /**
+     * Récupère un utilisateur d'après son UID
+     */
+    var userInfo = channel.getMember(uid)
+```
+
 #### Quitter un channel
 
 ```javascript
